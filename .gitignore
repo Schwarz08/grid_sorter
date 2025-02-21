@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+PH_MUN_MAP/
+
 # C extensions
 *.so
 
