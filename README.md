@@ -14,3 +14,4 @@
 ## Notes:
 ### You can change the number of workers multiprocessing will use.
 ### It is also possible to switch between multiprocessing and standard looping.
+### It is recommended to use csv_splitter to make the csv files smaller.
