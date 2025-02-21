@@ -1,6 +1,6 @@
 # grid_sorter
 ## Setup:
-### Download PH_MUN_MAP from https://github.com/Schwarz08/custom_shp_files.git and extract
+### Download [PH_MUN_MAP](https://github.com/Schwarz08/custom_shp_files.git) and extract
 ## Input:
 ### All input variables can be found under main.
 ### grid_folder: Directory containing grid-level csv files to be sorted.
@@ -14,4 +14,4 @@
 ## Notes:
 ### You can change the number of workers multiprocessing will use.
 ### It is also possible to switch between multiprocessing and standard looping.
-### It is recommended to use csv_splitter to make the csv files smaller.
+### It is recommended to use [csv_splitter](https://github.com/Schwarz08/csv_tools.git) to make the csv files smaller.
